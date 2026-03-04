@@ -33,3 +33,4 @@ pytube
 numexpr
 huggingface_hub
 tqdm
+streamlit
