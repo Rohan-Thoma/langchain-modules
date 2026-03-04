@@ -9,6 +9,8 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
+langchain-ollama
+langchain-classic
 chromadb
 sentence_transformers
 langchain_huggingface
